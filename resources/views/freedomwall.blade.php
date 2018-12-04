@@ -14,7 +14,7 @@
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>
 	<div class="row">
-		 <label for="contacts">Contactss:</label>
+		 <label for="contacts">Contactssdd:</label>
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>
 </div>
