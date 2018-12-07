@@ -18,4 +18,3 @@
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>
 </div>
-sad
