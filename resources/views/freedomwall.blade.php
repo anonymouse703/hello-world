@@ -10,12 +10,12 @@
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>a
 	<div class="row">
-		 <label for="address">Addresss1:</label>
+		 <label for="address">Address1:</label>
 		 {{ Form::textarea('notess', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>
 	<div class="row">
 		 <label for="contacts">Contacts:</label>
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
-	</div>ad
+	</div>
 </div>
 sad
