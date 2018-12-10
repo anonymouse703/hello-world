@@ -17,4 +17,4 @@
 		 <label for="contacts">Contacts:</label>
 		 {{ Form::textarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
 	</div>
-</div>asdf
+</div>
