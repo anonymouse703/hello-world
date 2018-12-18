@@ -16,5 +16,5 @@
 	<div class="row">
 		 <label for="contacts">Contacts:</label>
 		 {{ Form::texstarea('notes', null, ['size' => '30x5'],['class'=>'form-control'] ) }}
-	</div>dgf
+	</div>dgfasd
 </div>
